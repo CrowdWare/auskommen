@@ -46,7 +46,7 @@ Lasst uns seinen Traum wahr werden lassen!
                 Markdown {
                     text: "# Auskommen
 Das Auskommen ist eigentlich gar kein Programm, das irgendwelche Politiker für uns installieren müssen, sondern nur eine Idee.
-Heute morgen hat mir Ralph Boes, ein guter Freund, Menschenrechtler, Philosoph und Mentor den Begriff ***Auskommen*** zuworfen
+Heute morgen hat mir Ralph Boes, ein guter Freund, Menschenrechtler, Philosoph und Mentor den Begriff ***Auskommen*** zugeworfen
 und ich wußte sofort, das ich das schon habe und aus diesem Grund kein Einkommen mehr benötige.  
 
 Mit dieser Seite möchte ich Dir das Auskommen näher bringen, denn auch Du kannst es jetzt sofort für Dich in Besitz nehmen.  
